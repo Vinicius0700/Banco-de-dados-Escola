@@ -1,0 +1,78 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("Fundos/fundo1.jpg");
+    font-family: sans-serif;
+}
+.teto {
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+    border-top: 3px solid rgb(114, 107, 107);
+    border-bottom: 3px solid rgb(114, 107, 107);
+}
+.teto h2{
+    color: rgb(190, 236, 240);
+    text-align: center;
+    height: 15px;
+}
+.teto p{
+    color: rgb(190, 236, 240);
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+}
+.form{
+    width: 400px;
+    margin: auto;
+    color: rgb(120, 176, 180);
+    padding-top: 50px;
+}
+.card{
+    box-shadow: 3px 3px 5px rgb(60, 56, 56);
+    background-color: rgb(80, 76, 76);
+    padding: 25px;
+    border-radius: 15px;
+}
+.cardTop{
+    text-align: center;
+}
+.card-group{
+    margin-bottom: 10px;
+}
+.card-group label{
+    width: 100%;
+    color: rgb(120, 176, 180);;
+    display: block;
+}
+.card-group select{
+    border-radius: 5px;
+    outline: 0;
+    width: 50%;
+    height: 30px;
+    padding: 5px;  
+}
+.card-group input{
+    border-radius: 5px;
+    outline: 0;
+    width: 96%;
+    height: 25px;
+    padding: 5px;
+}
+.card-group button{
+    background-image: linear-gradient(to left, rgb(180, 0, 0), rgb(90, 0, 0));
+    width: 100%;
+    margin-top: 30px;
+    border-radius: 30px;
+    padding: 15px;
+    color: white;
+    border: 0px;
+    outline: 0;
+}
+
+
+
+
+
+
+
